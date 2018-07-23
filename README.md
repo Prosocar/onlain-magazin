@@ -1,2 +1,0 @@
-# onlain-magazin
-GitHub Pages
